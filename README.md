@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I am a Hoayu Fang, or you can call me Vincent. I am a graduate student from New York University.
+### My research experience covers computer vision and NLP. Worked as a Research Engineer in NYUAD. 👋
 
 <!--
 **HaoyuCreate/HaoyuCreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
