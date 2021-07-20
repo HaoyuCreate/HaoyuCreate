@@ -1,5 +1,5 @@
 ### Hi, I am a Hoayu Fang, or you can call me Vincent. I am a graduate student from New York University.
-### My research experience covers computer vision and NLP.
+### My Work experience covers computer vision and NLP.
 
 
 
